@@ -225,7 +225,7 @@ Main.BorderSizePixel = 2
 Main.Position = UDim2.new(0.314186931, 0, 0.202702716, 0)
 Main.Selectable = true
 Main.Size = UDim2.new(0, 795, 0, 483)
-Main.Visible = false
+Main.Visible = true
 Main.Draggable = true
 Main.Transparency = 0.15
 
